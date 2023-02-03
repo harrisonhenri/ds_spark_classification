@@ -32,6 +32,7 @@ Enable the virtual environment (using <img alt="Python" width="16px" style="posi
 
 ```
 $ python -m venv venv
+$ source venv/bin/activate
 ```
 
 Install all the required dependencies
