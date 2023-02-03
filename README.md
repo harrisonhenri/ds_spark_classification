@@ -28,6 +28,12 @@ $ git clone https://github.com/harrisonhenri/ds_spark_classification.git
 $ cd ds_spark_classification
 ```
 
+Enable the virtual environment (using <img alt="Python" width="16px" style="position:relative; top:4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />3.9+)
+
+```
+$ python -m venv venv
+```
+
 Install all the required dependencies
 
 ```
